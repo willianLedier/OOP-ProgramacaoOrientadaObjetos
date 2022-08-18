@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "..\..\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\OOP.csproj", "{EB532D8A-3ED0-45DA-BFE7-949CAE318C92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{88D1F256-1457-48BF-A5D7-CFCD1F6D3BD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EB532D8A-3ED0-45DA-BFE7-949CAE318C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB532D8A-3ED0-45DA-BFE7-949CAE318C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB532D8A-3ED0-45DA-BFE7-949CAE318C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB532D8A-3ED0-45DA-BFE7-949CAE318C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D1F256-1457-48BF-A5D7-CFCD1F6D3BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D1F256-1457-48BF-A5D7-CFCD1F6D3BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D1F256-1457-48BF-A5D7-CFCD1F6D3BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D1F256-1457-48BF-A5D7-CFCD1F6D3BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
