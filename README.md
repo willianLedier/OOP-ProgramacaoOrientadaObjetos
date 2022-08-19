@@ -46,3 +46,15 @@ Permite que uma classe compartilhe seus atributos e metodos a uma outra classe.
 
 ------------
 
+
+#### ALTA COESÃO BAIXO ACOPLAMENTO
+
+###### Acoplamento 
+Uma dependencia direta entre um objeto e outro. Quando um objeto muda o outro muda por consequencia.
+
+###### Coesão 	 
+Responsabilidade única, uma classe deve ter apenas uma única responsabilidade e realizá-la de maneira satisfatória, ou seja, uma classe não deve assumir responsabilidades que não são suas .
+
+------------
+
+
